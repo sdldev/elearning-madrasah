@@ -1,0 +1,3 @@
+[17-Mar-2023 08:34:42 UTC] PHP Fatal error:  The file /home/u6163932/public_html/aplikasima/asesmenmadrasah/index.php was encoded by the ionCube Encoder for PHP 5.6 and cannot run under PHP 7.1 or later.
+ Please ask the provider of the script to provide a version encoded with the ionCube Encoder for PHP 7.1. in Unknown on line 0
+[17-Mar-2023 16:59:24 Asia/Jakarta] PHP Fatal error:  Call to a member function row() on boolean in /home/u6163932/public_html/aplikasima/asesmenmadrasah/__app/modules/student/controllers/Student.php on line 0
